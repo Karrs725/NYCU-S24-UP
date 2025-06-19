@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=$(pwd) LD_PRELOAD=./libsolverlocal.so ./maze
